@@ -57,8 +57,8 @@ I learned how to use Grid to layout the website. Use of media queries to create 
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=rCBYZ7xn-us&t=929s) - Amazing video tutorial by Mr Coder.
-- [Example resource 2](https://github.com/ziggysauce/fem.io/tree/main/order-summary-component) - This is an amazing repository that guides me in taking this challenge.
+- [Responsive Order Summary Component ](https://www.youtube.com/watch?v=rCBYZ7xn-us&t=929s) - Amazing video tutorial by Mr Coder.
+- [https://github.com/ziggysauce/fem.io/tree/main/order-summary-component](https://github.com/ziggysauce/fem.io/tree/main/order-summary-component) - This is an amazing repository     that guides me in taking this challenge.
 
 ## Author
 

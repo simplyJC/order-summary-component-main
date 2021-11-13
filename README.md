@@ -45,7 +45,7 @@ This is screenshot of the my solution to the challenge.
 
 ### What I learned
 
-I learned how to use Grid to layout the website. Using media querid to create a responsive design
+I learned how to use Grid to layout the website. Use of media queries to create a responsive design.
 
 
 ### Continued development

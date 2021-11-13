@@ -16,7 +16,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,12 +30,10 @@ Users should be able to:
 ![](./screenshot.png)
 
 This is screenshot of the my solution to the challenge.
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/simplyJC/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://simplyjc.github.io/order-summary-component-main/)
+- Solution URL: [My Solution](https://github.com/simplyJC/order-summary-component-main)
+- Live Site URL: [Live Site](https://simplyjc.github.io/order-summary-component-main/)
 
 ## My process
 
@@ -46,13 +43,10 @@ This is screenshot of the my solution to the challenge.
 - FlexBox
 - CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learned how to use Grid to layout the website. Using media querid to create a responsive design
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -60,25 +54,19 @@ I learned how to use Grid to layout the website. Using media querid to create a 
 - Responsive Design
 - Learn to use Sass
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [Example resource 1](https://www.youtube.com/watch?v=rCBYZ7xn-us&t=929s) - Amazing video tutorial by Mr Coder.
 - [Example resource 2](https://github.com/ziggysauce/fem.io/tree/main/order-summary-component) - This is an amazing repository that guides me in taking this challenge.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Jaycee Altamia](https://simplyjc.github.io/project_portfolio/)
+- Frontend Mentor - [@simplyJC](https://www.frontendmentor.io/profile/simplyJC)
+- Twitter - [@jcaltamia](https://www.twitter.com/jcaltamia)
 
 ## Acknowledgments
 
-Thank you for Mr. Coder for amazing tutorial and  Dan Nguyen repository. 
+I don't have any idea how to start. Thank you to Mr. Coder for amazing tutorial and  Dan Nguyen repository. I was able to provide my solution. 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
